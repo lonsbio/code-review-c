@@ -1,8 +1,8 @@
-[![travis](https://travis-ci.org/code-review-c-team/code-review-c-c.svg?branch=master)](https://travis-ci.org/code-review-c-team/code-review-c-c)
+[![travis](https://travis-ci.org/lonsbio/code-review-c-c.svg?branch=master)](https://travis-ci.org/lonsbio/code-review-c-c)
 
 # Overview 
 
-This is a c implementation of [code-review-c](https://github.com/code-review-c-team/code-review-c).
+This is a c implementation of [code-review-c](https://github.com/lonsbio/code-review-c).
 
 The program reads one or more input FASTA files. For each file it computes a variety of statistics, and then prints a summary of the statistics as output.
 
@@ -10,7 +10,7 @@ The goal is to provide a solid foundation for new bioinformatics command line to
 
 # Licence
 
-This program is released as open source software under the terms of [MIT License](https://raw.githubusercontent.com/code-review-c-team/code-review-c/master/LICENSE)
+This program is released as open source software under the terms of [MIT License](https://raw.githubusercontent.com/lonsbio/code-review-c/master/LICENSE)
 
 # Installing
 
@@ -181,6 +181,6 @@ two_sequence.fasta      2       357     120     178     237
 
 # Bugs
 
-[General code-review-c issues](https://github.com/code-review-c-team/code-review-c/issues)
+[General code-review-c issues](https://github.com/lonsbio/code-review-c/issues)
 
-[code-review-c-c specific issues](https://github.com/code-review-c-team/code-review-c-c/issues) 
+[code-review-c-c specific issues](https://github.com/lonsbio/code-review-c-c/issues) 
